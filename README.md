@@ -1,3 +1,3 @@
-# Dice-Challenge
+
 
 live preview https://arshjindal-eth.github.io/Dice-Challenge/
